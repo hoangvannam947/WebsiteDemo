@@ -85,7 +85,8 @@
             <!-- Contact section -->
             <div class="content-section">
                 <h2 class="section-heading">CONTACT</h2>
-                <p class="section-sub-heading">Fan? Drop a note!</p>
+                <p class="section-sub-heading">Fan? Drop
+                    -----------------a note!</p>
             </div>
 
         </div>
